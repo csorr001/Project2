@@ -1,0 +1,48 @@
+Clay Sorrick
+
+The state of Web security has never been pretty, and a new report from Symantec discussing current and future threats only highlights just how risky the Internet environment has become.
+
+The daily volume of Web-based attacks increased an eye-popping 93 percent from 2009 to 2010, the report says -- and that's a particularly significant increase given the high level of attacks prior to 2009.
+
+Many of the latest attacks were targeted, Symantec noted -- in fact, targeted attacks were an overriding theme for the year.
+
+Another development in 2010 was the apparent concentrated effort of malware writes to penetrate businesses, Kevin Haley, director with Symantec Security Response, told TechNewsWorld.
+
+Hydraq, for example, attempted to steal intellectual property from major corporations -- none of which, except for Google, were willing to admit they had been targeted, Haley pointed out.
+
+If nothing else, it served as a good wake-up call for companies that had been lax with security up to that point, he said. "That, and the Stuxnet attack raised the bar, so to speak. I think it will be a common event going forward for businesses to experience these attacks."
+
+Plug-ins, URLS and Social Media
+
+Not that consumers were ignored by malware writers. On the contrary, many of the vectors by which the attacks were delivered seemed to have been selected with the unsuspecting consumer in mind. Chief among these are shortened URLs, which are common in social media messaging.
+
+Two-thirds of malicious links in news feeds used shortened URLs that redirected users to an attack website, Symantec found. Seventy-three percent of the links studied were clicked on at least 11 times, and 33 percent were clicked on as many as 50 times.
+
+At one time, it was assumed that security tools would be developed to help users see where a link was directing them, Haley said.
+
+That hasn't happened. Firefox does have a plug-in, he noted, "but it hasn't been universally adopted." Until that happens, shortened URLs "will remain a very useful social engineering tool for the bad guys."
+Sheer Quantity
+
+Much of the report covers familiar territory, at least for security experts, Philip Cox, a principal consultant with SystemExperts, told TechNewsWorld. "I think anyone in the industry could tell you that malware writers are getting more clever, using more sophisticated social engineering techniques."
+
+That has become a given and will remain so, he said. What is astounding about the Symantec report is the sheer volume of attacks.
+
+"Ninety-three percent is significant," said Cox. "What's more, it is starting to be felt firsthand by businesses and consumers. At one point in time, hack attacks may have seemed theoretical to many people -- something that happened to someone else."
+Mobile Threats
+
+Also surprising is the relative quietness of the mobile front, although that may change too, suggested Haley. "Really, we have all the ingredients necessary for a mobile onslaught, but it just hasn't happened yet."
+
+These elements include growing mobile vulnerabilities, which increased 42 percent, a growing installed base, and sophisticated operating systems from which hackers can launch their attacks.
+
+The reason so few have taken advantage of this environment is lack of financial payoff, Haley noted. "There just isn't an easy way to make a lot of money from mobile malware."
+
+When smartphones turn into e-wallets using near-field communications technology -- something both Apple and Google are expected to implement -- that is bound to change. "Then the environment will be very fertile for malware writers," Haley said.
+Forest and Trees
+
+Focusing on future scenarios or on elaborate techniques being deployed in the present may not be the best approach, at least for the masses, counseled Andres Kohn, VP of technology and product marketing for Proofpoint.
+
+"Yes, it is important to look to the future to see where we are vulnerable," he said, "but such talk leads consumers to forget the plain vanilla techniques, such as standard phishing, that can trip them up."
+
+The future attack scenarios are already here, and consumers must be warned about them, countered Catalin Cosoi, head of BitDefender's Online Threats Lab.
+
+"The biggest issue right now is the false sentiment of security people have when using social networks or when installing smartphone apps," he told TechNewsWorld. "Since these services or devices are represented by known international institutions, they believe that they are safe." 
